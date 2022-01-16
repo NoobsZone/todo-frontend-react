@@ -108,10 +108,6 @@ function Todo() {
                               />
                             </IconButton>
                           </Grid>
-
-                          // <IconButton edge="end" aria-label="edit">
-                          //   <EditIcon />
-                          // </IconButton>
                         }
                       >
                         {todo.title}

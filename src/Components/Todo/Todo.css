@@ -1,0 +1,51 @@
+.todo {
+  background-color:darkslategray;
+  margin: auto;
+  margin-top: 50px;
+  width: 30%;
+  border: 2px solid black;
+  padding: 10px;
+}
+.text {
+  color: whitesmoke;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.buttons {
+  display: flex;
+  border: 1px solid;
+  padding: 20px;
+  /* box-shadow: 1px 2px 20px red; width: 50; */
+}
+
+.label{
+  color: white;
+}
+
+.list{
+  color: white;
+}
+.editIcon{
+  color: aqua;
+}
+.deleteIcon{
+  color:maroon;
+}
